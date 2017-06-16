@@ -41,6 +41,9 @@ namespace com.ucb.DataBase{
 
         public DataTable buscarTodosClientes()
         {
+            /* Permite Buscar todos os cliente
+             * Indicaria fazer uma busca por nome ou ID
+             */
             try
             {
                 using (SqlConnection _connection = new SqlConnection(Settings.Default.minhaConexao))
