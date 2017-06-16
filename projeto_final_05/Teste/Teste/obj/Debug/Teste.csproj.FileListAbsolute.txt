@@ -1,0 +1,10 @@
+C:\Users\uc15102814\Desktop\Projeto_Final_03\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\uc15102814\Desktop\Projeto_Final_03\Teste\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\uc15102814\Desktop\Projeto_Final_03\Teste\Teste\obj\Debug\Teste.Form1.resources
+C:\Users\uc15102814\Desktop\Projeto_Final_03\Teste\Teste\obj\Debug\Teste.Form2.resources
+C:\Users\uc15102814\Desktop\Projeto_Final_03\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\uc15102814\Desktop\Projeto_Final_03\Teste\Teste\obj\Debug\Teste.csproj.GenerateResource.Cache
+C:\Users\uc15102814\Desktop\Projeto_Final_03\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\uc15102814\Desktop\Projeto_Final_03\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\uc15102814\Desktop\Projeto_Final_03\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\uc15102814\Desktop\Projeto_Final_03\Teste\Teste\obj\Debug\Teste.pdb

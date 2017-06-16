@@ -1,0 +1,10 @@
+C:\Users\UC15102814.SLAB\Desktop\Projeto_Final_05\projeto_final_05\com.ucb.DataTransferObject\bin\Debug\com.ucb.DataTransferObject.dll
+C:\Users\UC15102814.SLAB\Desktop\Projeto_Final_05\projeto_final_05\com.ucb.DataTransferObject\bin\Debug\com.ucb.DataTransferObject.pdb
+C:\Users\UC15102814.SLAB\Desktop\Projeto_Final_05\projeto_final_05\com.ucb.DataTransferObject\obj\Debug\com.ucb.DataTransferObject.csprojResolveAssemblyReference.cache
+C:\Users\UC15102814.SLAB\Desktop\Projeto_Final_05\projeto_final_05\com.ucb.DataTransferObject\obj\Debug\com.ucb.DataTransferObject.dll
+C:\Users\UC15102814.SLAB\Desktop\Projeto_Final_05\projeto_final_05\com.ucb.DataTransferObject\obj\Debug\com.ucb.DataTransferObject.pdb
+C:\Users\Fellipe Mendonça\Source\Repos\ProjetoSabrina\projeto_final_05\com.ucb.DataTransferObject\bin\Debug\com.ucb.DataTransferObject.dll
+C:\Users\Fellipe Mendonça\Source\Repos\ProjetoSabrina\projeto_final_05\com.ucb.DataTransferObject\bin\Debug\com.ucb.DataTransferObject.pdb
+C:\Users\Fellipe Mendonça\Source\Repos\ProjetoSabrina\projeto_final_05\com.ucb.DataTransferObject\obj\Debug\com.ucb.DataTransferObject.csprojResolveAssemblyReference.cache
+C:\Users\Fellipe Mendonça\Source\Repos\ProjetoSabrina\projeto_final_05\com.ucb.DataTransferObject\obj\Debug\com.ucb.DataTransferObject.dll
+C:\Users\Fellipe Mendonça\Source\Repos\ProjetoSabrina\projeto_final_05\com.ucb.DataTransferObject\obj\Debug\com.ucb.DataTransferObject.pdb

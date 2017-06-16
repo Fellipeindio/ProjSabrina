@@ -1,0 +1,15 @@
+C:\Users\UC15102814.SLAB\Desktop\Projeto_Final_05\projeto_final_05\com.ucb.DataBase\bin\Debug\com.ucb.DataBase.dll
+C:\Users\UC15102814.SLAB\Desktop\Projeto_Final_05\projeto_final_05\com.ucb.DataBase\bin\Debug\com.ucb.DataBase.pdb
+C:\Users\UC15102814.SLAB\Desktop\Projeto_Final_05\projeto_final_05\com.ucb.DataBase\obj\Debug\com.ucb.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\UC15102814.SLAB\Desktop\Projeto_Final_05\projeto_final_05\com.ucb.DataBase\obj\Debug\com.ucb.DataBase.dll
+C:\Users\UC15102814.SLAB\Desktop\Projeto_Final_05\projeto_final_05\com.ucb.DataBase\obj\Debug\com.ucb.DataBase.pdb
+C:\Users\uc15102814.SLAB\Desktop\Projeto_Final_05\projeto_final_05\com.ucb.DataBase\bin\Debug\com.ucb.DataTransferObject.dll
+C:\Users\uc15102814.SLAB\Desktop\Projeto_Final_05\projeto_final_05\com.ucb.DataBase\bin\Debug\com.ucb.DataTransferObject.pdb
+C:\Users\Fellipe Mendonça\Source\Repos\ProjetoSabrina\projeto_final_05\com.ucb.DataBase\bin\Debug\com.ucb.DataBase.dll.config
+C:\Users\Fellipe Mendonça\Source\Repos\ProjetoSabrina\projeto_final_05\com.ucb.DataBase\bin\Debug\com.ucb.DataBase.dll
+C:\Users\Fellipe Mendonça\Source\Repos\ProjetoSabrina\projeto_final_05\com.ucb.DataBase\bin\Debug\com.ucb.DataBase.pdb
+C:\Users\Fellipe Mendonça\Source\Repos\ProjetoSabrina\projeto_final_05\com.ucb.DataBase\bin\Debug\com.ucb.DataTransferObject.dll
+C:\Users\Fellipe Mendonça\Source\Repos\ProjetoSabrina\projeto_final_05\com.ucb.DataBase\bin\Debug\com.ucb.DataTransferObject.pdb
+C:\Users\Fellipe Mendonça\Source\Repos\ProjetoSabrina\projeto_final_05\com.ucb.DataBase\obj\Debug\com.ucb.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Fellipe Mendonça\Source\Repos\ProjetoSabrina\projeto_final_05\com.ucb.DataBase\obj\Debug\com.ucb.DataBase.dll
+C:\Users\Fellipe Mendonça\Source\Repos\ProjetoSabrina\projeto_final_05\com.ucb.DataBase\obj\Debug\com.ucb.DataBase.pdb
